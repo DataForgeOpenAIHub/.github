@@ -6,22 +6,7 @@ DataForge OpenAI Hub is dedicated to building practical, real-world solutions le
 
 ## Repositories Overview
 
-### 1. End-to-End ML Project: Credit Card Fraud Detection [mlops-credit-card-fraud-detection-end-to-end] 🛡️
-
-This repository presents a comprehensive machine learning project that tackles credit card fraud detection using MLOps best practices. Highlights include:
-
-- **Ensemble Models**: Combines multiple algorithms for better accuracy in detecting fraudulent transactions.
-- **Data & Model Versioning**: Managed with DVC to ensure consistent and reproducible results.
-- **CI/CD Pipelines**: Implemented with GitHub Actions to automate the workflow.
-- **Deployment**: Model deployment to production with robust monitoring.
-
-📂 **Technologies Used**: Python, Jupyter, Scikit-learn, DVC, GitHub Actions, Docker
-
-🔗 **[View the repo](https://github.com/DataForgeOpenAIHub/mlops-credit-card-fraud-detection-end-to-end)**
-
----
-
-### 2. End-to-End Data Pipeline: Steam Sales Analysis [Steam-Sales-Analysis] 🎮
+### 1. End-to-End Data Pipeline: Steam Sales Analysis [Steam-Sales-Analysis] 🎮
 
 This repository implements an end-to-end ETL pipeline for analyzing Steam sales data. It retrieves, processes, and stores gaming metadata and sales data, offering insightful trends and performance analysis.
 
@@ -37,13 +22,28 @@ This repository implements an end-to-end ETL pipeline for analyzing Steam sales 
 
 ---
 
+### 2. End-to-End ML Project: Credit Card Fraud Detection [mlops-credit-card-fraud-detection-end-to-end] 🛡️
+
+This repository presents a comprehensive machine learning project that tackles credit card fraud detection using MLOps best practices. Highlights include:
+
+- **Ensemble Models**: Combines multiple algorithms for better accuracy in detecting fraudulent transactions.
+- **Data & Model Versioning**: Managed with DVC to ensure consistent and reproducible results.
+- **CI/CD Pipelines**: Implemented with GitHub Actions to automate the workflow.
+- **Deployment**: Model deployment to production with robust monitoring.
+
+📂 **Technologies Used**: Python, Jupyter, Scikit-learn, DVC, GitHub Actions, Docker
+
+🔗 **[View the repo](https://github.com/DataForgeOpenAIHub/mlops-credit-card-fraud-detection-end-to-end)**
+
+---
+
 ## Getting Started
 
 Clone the respective repository and follow the setup instructions provided in each project.
 
 ```bash
-# Clone the ML project
-git clone https://github.com/DataForgeOpenAIHub/mlops-credit-card-fraud-detection-end-to-end.git
-
 # Clone the Data Pipeline project
 git clone https://github.com/DataForgeOpenAIHub/Steam-Sales-Analysis.git
+
+# Clone the ML project
+git clone https://github.com/DataForgeOpenAIHub/mlops-credit-card-fraud-detection-end-to-end.git

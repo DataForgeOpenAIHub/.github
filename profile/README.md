@@ -14,7 +14,7 @@ This repository implements an end-to-end ETL pipeline for analyzing Steam sales 
 - **Data Storage**: Stored in a MySQL database hosted on Aiven Cloud.
 - **Visualization**: Interactive Tableau dashboards provide insights into gaming trends.
 - **Automation**: Fully automated using CLI-based orchestration.
-- **Open-source contribution**: Deployed and maintained a [PyPI](https://pypi.org/project/steamstore-etl/) package/library.
+- **Open-source contribution**: Deployed and maintained a [PyPI](https://pypi.org/project/steamstore-etl/) package/library (open-source contribution).
 
 📂 **Technologies Used**: Python, MySQL, Tableau, Steam API, Typer CLI, ETL 
 
